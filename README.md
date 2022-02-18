@@ -8,7 +8,7 @@
 
 ## 一键部署到Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/gfch68vjhgi/hhvv-3)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/gfch68vjhgj/hhvv-3)
 
 ## ENV 设定
 
